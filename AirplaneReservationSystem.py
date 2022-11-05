@@ -58,6 +58,13 @@ def display_welcome():
     print(" *   *   *   * * * *   *       *        *         *  *  *  *   * * * * ")
     print(" * *   * *   *         *        *        *       *   *     *   *       ")
     print(" *       *   * * * *   * * * *   * * *    * * * *    *     *   * * * * ")
+    print("")
+    print(" ******   *     *    *********   *******              **********  ********           *********  *******     ********  ********   ********      **                ")
+    print("   *      *     *        *       *                        *       *                  *          *      *    *         *              *        *  *      ")
+    print("   *      *******        *       ********                 *       ********           *********  *******     *******   ********       *       ******     ")
+    print("   *      *     *        *              *                 *              *                   *  *      *    *         *          *   *      *      *    ")
+    print("   *      *     *    *********   ********             **********  ********           *********  *       *   ********  ********    ****     *        *   ")
+   
     print(f"{bcolors.BOLD}{bcolors.HEADER}{bcolors.UNDERLINE}Welcome to https://github.com/voyager2005 Travels, "
           f"We would like to take some information:{bcolors.ENDC}{bcolors.ENDC}{bcolors.ENDC}")
 
