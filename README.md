@@ -32,7 +32,7 @@ You can change the colouring of the text... ie. change ```{bcolors.WARNING}...{b
 ### Case 1: When accpeting phone numbers
 ![image case1](https://user-images.githubusercontent.com/94774293/200168219-0d065249-0608-4e1e-b9b7-a681425581bc.png)
 ## Case 2: When entering the date
-![image10 5](https://user-images.githubusercontent.com/76808676/106879032-a755a180-6700-11eb-9eed-3fe285e44fd0.png)
+![image case2 date](https://user-images.githubusercontent.com/94774293/200168299-9ba6ddf2-8d80-494b-8f54-cab290718678.png)
 ## Case 3: Small Summary:
 ![image10 8](https://user-images.githubusercontent.com/76808676/107143767-e122e400-695c-11eb-9a9a-644a823558a3.png)
 ### Case 4: When entering the time for any booking on the same day
