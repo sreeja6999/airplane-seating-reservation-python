@@ -36,7 +36,7 @@ You can change the colouring of the text... ie. change ```{bcolors.WARNING}...{b
 ## Case 3: Small Summary:
 ![image Small Summary](https://user-images.githubusercontent.com/94774293/200171115-c84ad4f7-6053-4b52-b18b-643a101d93ed.png)
 ### Case 4: Trying to book already reserved seats
-![image case3 time](https://user-images.githubusercontent.com/94774293/200168296-9592e862-3be3-4235-bfde-e0537c85dbb5.png)
+![IMAGE CASE4](https://user-images.githubusercontent.com/94774293/200171544-19c78676-d00e-4d64-abb6-8495e6986653.png)
 ### Case 5: Ticket booked
-![image10 7](https://user-images.githubusercontent.com/76808676/106879038-a886ce80-6700-11eb-9de9-2a07090c68b1.png)
+![IMAGE CASE5](https://user-images.githubusercontent.com/94774293/200171542-9eab0690-3c25-47ec-ad6d-2134472c2369.png)
 
