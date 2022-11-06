@@ -8,7 +8,7 @@
 
 
 ## Program Output
-![image10 0](https://user-images.githubusercontent.com/76808676/106876662-f5b57100-66fd-11eb-9e8b-b18670b8f699.png)
+![image10 0](https://github.com/sreeja6999/airplane-seating-reservation-python/issues/1#issue-1437334814))
 ![image10 1](https://user-images.githubusercontent.com/76808676/106876651-f3531700-66fd-11eb-8daa-cdea6c974998.png)
 ![image10 2](https://user-images.githubusercontent.com/76808676/106876656-f51cda80-66fd-11eb-8564-2ac29a439778.png)
 ![image10 3](https://user-images.githubusercontent.com/76808676/106876660-f51cda80-66fd-11eb-939d-ef16c6af529b.png)
