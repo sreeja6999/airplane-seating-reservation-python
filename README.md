@@ -8,7 +8,7 @@
 
 
 ## Program Output
-![image](https://user-images.githubusercontent.com/94774293/200162579-65560043-ad25-4741-afe3-c5a4c3be15f1.png)
+![image 1](https://user-images.githubusercontent.com/94774293/200166772-93678dd5-5f79-4bb2-a779-cd2770161b7b.jpeg)
 ![image10 1](https://user-images.githubusercontent.com/76808676/106876651-f3531700-66fd-11eb-8daa-cdea6c974998.png)
 ![image10 2](https://user-images.githubusercontent.com/76808676/106876656-f51cda80-66fd-11eb-8564-2ac29a439778.png)
 ![image10 3](https://user-images.githubusercontent.com/76808676/106876660-f51cda80-66fd-11eb-939d-ef16c6af529b.png)
