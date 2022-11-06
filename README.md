@@ -30,7 +30,7 @@ You can change the colouring of the text... ie. change ```{bcolors.WARNING}...{b
 
 ## [Exception Handeling]
 ### Case 1: When accpeting phone numbers
-![image10 4](https://user-images.githubusercontent.com/76808676/106879027-a58bde00-6700-11eb-8c8e-dfcde2a398d9.png)
+![image case1](https://user-images.githubusercontent.com/94774293/200168219-0d065249-0608-4e1e-b9b7-a681425581bc.png)
 ## Case 2: When entering the date
 ![image10 5](https://user-images.githubusercontent.com/76808676/106879032-a755a180-6700-11eb-9eed-3fe285e44fd0.png)
 ## Case 3: Small Summary:
