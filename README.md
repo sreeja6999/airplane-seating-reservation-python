@@ -15,7 +15,7 @@
 
 ## Latest Update:
 **Calcualting the cost**
-![image9 9](https://user-images.githubusercontent.com/76808676/107035137-b3fbf780-67dd-11eb-8486-7dc7216b1321.png)
+![image 5](https://user-images.githubusercontent.com/94774293/200167023-41074124-1f7d-4261-9de4-ee8675790b50.jpeg)
 
 ## How to customize this..
 You can change the colouring of the text... ie. change ```{bcolors.WARNING}...{bcolors.ENDC``` to ```{bcolors.FAIL}...{bcolors.ENDC}```
