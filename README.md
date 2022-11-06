@@ -35,8 +35,8 @@ You can change the colouring of the text... ie. change ```{bcolors.WARNING}...{b
 ![image case2 date](https://user-images.githubusercontent.com/94774293/200168299-9ba6ddf2-8d80-494b-8f54-cab290718678.png)
 ## Case 3: Small Summary:
 ![image Small Summary](https://user-images.githubusercontent.com/94774293/200171115-c84ad4f7-6053-4b52-b18b-643a101d93ed.png)
-### Case 4: When entering the time for any booking on the same day
+### Case 4: Trying to book already reserved seats
 ![image case3 time](https://user-images.githubusercontent.com/94774293/200168296-9592e862-3be3-4235-bfde-e0537c85dbb5.png)
-### Case 5: Trying to book already reserved seats
+### Case 5: Ticket booked
 ![image10 7](https://user-images.githubusercontent.com/76808676/106879038-a886ce80-6700-11eb-9de9-2a07090c68b1.png)
-### Case 6: Trying to book your seat again 
+
