@@ -26,7 +26,7 @@ You can change the colouring of the text... ie. change ```{bcolors.WARNING}...{b
 <br/>```True``` means that the seat is booked 
 <br />```False``` means that the seat is available
 <br />
-<br />You can ```ctrl+f``` to find all the ```(https://github.com/sreeja6999/airplane-seating-reservation-python)``` and ```ctrl+r``` to replace them with your github link
+<br />
 
 ## [Exception Handeling]
 ### Case 1: When accpeting phone numbers
